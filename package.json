@@ -5,7 +5,6 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@node": "^16.16.0",
     "@apollo/react-hooks": "^4.0.0",
     "@emotion/css": "^11.0.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
